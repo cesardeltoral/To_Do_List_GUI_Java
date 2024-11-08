@@ -1,0 +1,1 @@
+The To-Do List GUI Java project is a desktop application designed to help users manage tasks efficiently. It features a user-friendly graphical interface built with Java Swing, allowing users to add, edit, and remove tasks seamlessly. This project demonstrates GUI programming and basic CRUD operations in Java.
